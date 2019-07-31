@@ -1,5 +1,7 @@
 <p align="center"><img width="25%" src="docs/logo.png"/></p>
 
+[2007GP Buy OSRS Gold](https://2007gp.com)
+
 A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using [PyTorch](http://pytorch.org/) `Tensor` functionality.
 
 BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
